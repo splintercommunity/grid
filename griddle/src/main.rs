@@ -104,7 +104,7 @@ async fn run() -> Result<(), Error> {
     #[allow(unused_mut)]
     let mut app = App::new("griddle")
         .version(env!("CARGO_PKG_VERSION"))
-        .author("Contributors to Hyperledger Grid")
+        .author("Contributors to Grid")
         .about("Grid Integration Component")
         .arg(
             Arg::with_name("verbose")

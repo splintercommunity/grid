@@ -186,7 +186,7 @@ Details:
       -  built-in::collaborative::v1        Uses collaborative partner roles
 
     For more information regarding these workflows, see the purchase order RFC here:
-    https://github.com/hyperledger/grid-rfcs/pull/25";
+    https://github.com/splintercommunity/grid-rfcs/blob/main/text/0025-purchase-order.md";
 
 // log format for cli that will only show the log message
 pub fn log_format(
@@ -202,8 +202,8 @@ fn run() -> Result<(), CliError> {
     let mut app = clap_app!(myapp =>
         (name: APP_NAME)
         (version: VERSION)
-        (author: "Contributors to Hyperledger Grid")
-        (about: "Command line for Hyperledger Grid")
+        (author: "Contributors to Grid")
+        (about: "Command line for Grid")
         (@arg verbose: -v +multiple +global "Log verbosely")
         (@arg quiet: -q --quiet +global conflicts_with[verbose] "Do not display output")
         (@subcommand database =>
