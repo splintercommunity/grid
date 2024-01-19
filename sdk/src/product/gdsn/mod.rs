@@ -101,7 +101,7 @@ impl TradeItem {
 /// does not contain well-formed XML.
 ///
 /// View the GridTradeItems XML schema definition here:
-///     https://github.com/hyperledger/grid/blob/main/sdk/src/product/gdsn/GridTradeItems.xsd
+///     https://github.com/splintercommunity/grid/blob/main/sdk/src/data_validation/xml/xsd/product/GridTradeItems.xsd
 ///
 /// # Arguments
 ///
