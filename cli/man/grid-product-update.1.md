@@ -1,5 +1,6 @@
 % GRID-PRODUCT-UPDATE(1) Cargill, Incorporated | Grid Commands
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2018-2021 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -195,7 +196,7 @@ Sample XML file describing a list of products:
                 <referencedFileDetailInformationModule>
                     <referencedFileHeader>
                         <referencedFileTypeCode>PRODUCT_IMAGE</referencedFileTypeCode>
-                        <uniformResourceIdentifier>https://grid.hyperledger.org/assets/grid_wordmark.svg</uniformResourceIdentifier>
+                        <uniformResourceIdentifier>https://grid.splinter.dev/assets/grid_wordmark.svg</uniformResourceIdentifier>
                     </referencedFileHeader>
                 </referencedFileDetailInformationModule>
                 <tradeItemDescriptionModule>
@@ -281,4 +282,4 @@ SEE ALSO
 | `grid-product-show(1)`
 | `grid-product-list(1)`
 |
-| Grid documentation: https://grid.hyperledger.org/docs/0.3/
+| Grid documentation: https://grid.splinter.dev/docs/0.3/
