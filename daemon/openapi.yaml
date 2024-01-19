@@ -18,10 +18,10 @@ openapi: 3.0.0
 info:
   version: 0.4.1
   title: Grid Daemon REST API
-  description: A REST API providing HTTP/JSON interface to Hyperledger Grid.
+  description: A REST API providing HTTP/JSON interface to Grid.
   contact:
-    name: Hyperledger Grid community
-    url: https://grid.hyperledger.org/community/
+    name: Grid community
+    url: https://grid.splinter.dev/community/
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0
