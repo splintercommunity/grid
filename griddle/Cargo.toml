@@ -15,7 +15,7 @@
 [package]
 name = "griddle"
 version = "0.4.1"
-authors = ["Contributors to Hyperledger Grid"]
+authors = ["Contributors to Grid"]
 edition = "2018"
 license = "Apache-2.0"
 description = "Grid integration component"

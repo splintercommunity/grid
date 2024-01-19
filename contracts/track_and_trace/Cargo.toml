@@ -17,7 +17,7 @@ name = "grid-track-and-trace-tp"
 version = "0.11.0"
 authors = ["Cargill Incorporated"]
 description = "Grid Track and Trace Transaction Processor"
-homepage = "https://grid.hyperledger.org"
+homepage = "https://grid.splinter.dev/"
 edition = "2018"
 
 [dependencies]
