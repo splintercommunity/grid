@@ -1,6 +1,7 @@
 % GRID-PO-CREATE(1) Cargill, Incorporated | Grid
 
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2021 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -77,7 +78,7 @@ will be randomly generated.
 : Specifies the ID of the workflow to be used for the purchase order.
 Built-in workflows are "built-in::system_of_record::v1", which uses buyer and seller roles, and
 "built-in::collaborative::v1", which uses collaborative partner roles.
-For more information on these workflows, see https://github.com/hyperledger/grid-rfcs/pull/25 .
+For more information on these workflows, see https://github.com/splintercommunity/grid-rfcs/blob/main/text/0025-purchase-order.md.
 
 EXAMPLES
 ========
@@ -130,4 +131,4 @@ SEE ALSO
 | `grid-po-update(1)`
 | `grid-po-version(1)`
 |
-| Grid documentation: https://grid.hyperledger.org/docs/0.3/
+| Grid documentation: https://grid.splinter.dev/docs/0.3/

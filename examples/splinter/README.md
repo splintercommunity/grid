@@ -1,12 +1,12 @@
-# Running Hyperledger Grid on Splinter
+# Running Grid on Splinter
 
 Documentation on how to set up a Grid-on-Splinter environment that runs in a
-set of Docker containers can be found on the [Hyperledger Grid website](https://grid.hyperledger.org/docs/0.1/grid_on_splinter.html).
+set of Docker containers can be found on the [Grid website](https://grid.splinter.dev/docs/0.1/grid_on_splinter.html).
 
 ## For More Information
-- Hyperledger Grid documentation: https://grid.hyperledger.org/docs/
+- Grid documentation: https://grid.splinter.dev/docs
 - Splinter: https://www.splinter.dev/
 - Sawtooth Sabre: https://github.com/hyperledger/sawtooth-sabre
-- Pike smart contract: https://grid.hyperledger.org/docs/0.1/pike_smart_contract_specification.html
-- Schema smart contract: https://grid.hyperledger.org/docs/0.1/schema_smart_contract_specification.html
-- Product RFC: https://github.com/hyperledger/grid-rfcs/blob/master/text/0005-product.md
+- Pike smart contract: https://grid.splinter.dev/docs/0.1/pike_smart_contract_specification.html
+- Schema smart contract: https://grid.splinter.dev/docs/0.1/schema_smart_contract_specification.html
+- Product RFC: https://github.com/splintercommunity/grid-rfcs/blob/main/text/0005-product.md

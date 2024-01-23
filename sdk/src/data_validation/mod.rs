@@ -54,7 +54,7 @@ pub fn validate_order_xml_3_4(
 /// if the file fails to validate for any reason.
 ///
 /// View the GridTradeItems XML schema definition here:
-///     https://github.com/hyperledger/grid/blob/main/sdk/src/products/gdsn/GridTradeItems.xsd
+///     https://github.com/splintercommunity/grid/blob/main/sdk/src/data_validation/xml/xsd/product/GridTradeItems.xsd
 ///
 /// For more information about the GDSN XML 3.1 schema, view the documentation
 /// here:

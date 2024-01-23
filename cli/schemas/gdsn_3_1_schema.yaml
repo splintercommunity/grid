@@ -16,7 +16,7 @@
 # This schema is used for submitting GDSN 3.1 product data. The product
 # definitions should be valid according to the GridTradeItems.xsd schema. For
 # more information, view the XML Schema Definition for gridTradeItems:
-# https://github.com/hyperledger/grid/blob/main/sdk/src/product/gdsn/GridTradeItems.xsd
+# https://github.com/splintercommunity/grid/blob/main/sdk/src/data_validation/xml/xsd/product/GridTradeItems.xsd
 
 - name: gs1_product
   description: GS1 product schema

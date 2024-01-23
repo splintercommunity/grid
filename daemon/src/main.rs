@@ -63,8 +63,8 @@ fn run() -> Result<(), DaemonError> {
     let mut app = clap_app!(myapp =>
         (name: APP_NAME)
         (version: VERSION)
-        (author: "Contributors to Hyperledger Grid")
-        (about: "Daemon Package for Hyperledger Grid")
+        (author: "Contributors to Grid")
+        (about: "Daemon Package for Grid")
         (@arg connect: -C --connect +takes_value "connection endpoint for sawtooth or splinter")
         (@arg verbose: -v +multiple "Log verbosely")
         (@arg database_url: --("database-url") +takes_value

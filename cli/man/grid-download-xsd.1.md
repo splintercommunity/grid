@@ -1,6 +1,7 @@
 % GRID-DOWNLOAD-XSD(1) Cargill, Incorporated | Grid
 
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2022 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -110,4 +111,4 @@ ENVIRONMENT VARIABLES
 
 SEE ALSO
 ========
-| Grid documentation: https://grid.hyperledger.org/docs/0.3/
+| Grid documentation: https://grid.splinter.dev/docs/0.3/

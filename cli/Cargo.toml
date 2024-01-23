@@ -15,11 +15,11 @@
 [package]
 name = "grid-cli"
 version = "0.4.1"
-authors = ["Contributors to Hyperledger Grid"]
+authors = ["Contributors to Grid"]
 edition = "2018"
 license = "Apache-2.0"
 description = """\
-    Hyperledger Grid is a platform for building supply chain solutions. It \
+    Grid is a platform for building supply chain solutions. It \
     provides a growing set of tools that accelerate development for supply \
     chain smart contracts and client interfaces.
 """
@@ -106,7 +106,7 @@ xsd-downloader-cache-dir = ["xsd-downloader"]
 xsd-downloader-force-download = ["xsd-downloader"]
 
 [package.metadata.deb]
-maintainer = "The Hyperledger Grid Team"
+maintainer = "The Grid Team"
 depends = "$auto, bash-completion"
 assets = [
     ["target/release/grid", "/usr/bin/grid", "755"],
